@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-07-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new paper on 'Reproducibility in the Control of Autonomous Mobility-on-Demand Systems' is available [here](https://arxiv.org/abs/2506.07345) :sparkles:
