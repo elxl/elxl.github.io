@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Ph.D in Transportation. JTL & LIDS</a>
+subtitle: <a href='#'>Ph.D in Transportation</a>
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D at MIT in Transportation supervised by Prof.Jinhua Zhao and Prof.Gioele Zardini. I am affliated with the Urban mobility Lab (JTL) and the Laboratory for Information & Decision Systems (LIDS). My research focuses on the design and operation control of Autonmous Mobility-on-Demand (AMoD) service, as well as its interaction with the existing infrastructures. 
+I am a Ph.D at MIT in Transportation supervised by Prof.Gioele Zardini. I am affliated with the Laboratory for Information & Decision Systems (LIDS). My research focuses on the design and operation control of Autonmous Mobility-on-Demand (AMoD) service, as well as its interaction with the existing infrastructures. I am interested in combining optimization, learning, and game theory to solve planning and control problems in networked systems.
 
 Prior to MIT, I obtained my bachelor's degree in Traffic Engineering from Tongji University in China, and my master's degree in Mobility and Data Science from EPFL, Lausanne in Switzerland. During my masters' year, I had the honor to exchange in the Machine Learning for Smart Mobility (MLSM) lab at DTU in Denmark, under the supervision of Prof.Filipe Rodrigues.
 
-Check the webpage [JTL](https://mobility.mit.edu/) and [Zardini Lab](https://zardini.mit.edu/) for more information about our lab!
+Check the webpage [Zardini Lab](https://zardini.mit.edu/) for more information about our lab!

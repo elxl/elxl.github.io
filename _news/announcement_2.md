@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-25
+date: 2026-01-13
 inline: true
 related_posts: false
 ---
 
-I presented our recent work on robo-taxi fleet coordination with high-capacity ridepooling in Robotis: Science and Systems (RSS) 2025 Workshop on Scalable and Resilient Multi‑Robot Systems. Checkout the workshop [here](https://mrs-workshop.github.io/rss25/)! :palm_tree: :sunny:
+Our new paper 'Accelerating High-Capacity Ridepooling in Robo-Taxi Systems' is accepted to RA-L. Check the paper [here](https://ieeexplore.ieee.org/abstract/document/11347541) :sparkles:
