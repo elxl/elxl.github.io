@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-01-13
+date: 2026-05-18
 inline: true
 related_posts: false
 ---
 
-Our new paper 'Accelerating High-Capacity Ridepooling in Robo-Taxi Systems' is accepted to RA-L. Check the paper [here](https://ieeexplore.ieee.org/abstract/document/11347541) :sparkles:
+New preprint available: 'Implementation-Based Incentive Design for Autonomous Mobility-on-Demand and Transit Systems' on arXiv. [Link](https://arxiv.org/abs/2605.18687) :sparkles:
