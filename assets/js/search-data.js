@@ -391,14 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-new-paper-accelerating-high-capacity-ridepooling-in-robo-taxi-systems-is-accepted-to-ra-l-check-the-paper-here-sparkles",
-          title: 'Our new paper ‘Accelerating High-Capacity Ridepooling in Robo-Taxi Systems’ is accepted to RA-L....',
-          description: "",
-          section: "News",},{id: "news-our-new-paper-on-reproducibility-in-the-control-of-autonomous-mobility-on-demand-systems-is-accpeted-to-tr-o-the-preprint-is-available-here-sparkles",
+            },},{id: "news-our-new-paper-on-reproducibility-in-the-control-of-autonomous-mobility-on-demand-systems-is-accpeted-to-tr-o-the-preprint-is-available-here-sparkles",
           title: 'Our new paper on ‘Reproducibility in the Control of Autonomous Mobility-on-Demand Systems’ is...',
           description: "",
           section: "News",},{id: "news-i-will-be-presenting-our-work-accelerating-high-capacity-ridepooling-in-robo-taxi-systems-in-the-2026-ieee-international-conference-on-robotics-amp-amp-automation-icra-in-vienna",
           title: 'I will be presenting our work ‘Accelerating High-Capacity Ridepooling in Robo-Taxi Systems’ in...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-available-implementation-based-incentive-design-for-autonomous-mobility-on-demand-and-transit-systems-on-arxiv-link-sparkles",
+          title: 'New preprint available: ‘Implementation-Based Incentive Design for Autonomous Mobility-on-Demand and Transit Systems’ on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
